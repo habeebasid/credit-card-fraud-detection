@@ -17,3 +17,6 @@ venv/
 
 # Model artifacts (optional)
 models/*.pkl
+
+# Datasets
+data/creditcard.csv
