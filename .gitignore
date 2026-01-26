@@ -21,5 +21,6 @@ models/*.pkl
 # Datasets
 data/creditcard.csv
 data/*.csv
+*.csv
 
 
