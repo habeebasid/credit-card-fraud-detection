@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
 ## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-frauddetections.streamlit.app/)
+[👉 Click here to open the app](https://credit-card-frauddetections.streamlit.app/)
 
 
 
