@@ -4,9 +4,10 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-frauddetections.streamlit.app/)
 
 
-![App Screenshot](assets/Screenshot.png)
+
 
 An end-to-end machine learning project for detecting fraudulent credit card transactions using gradient boosting and proper evaluation techniques for highly imbalanced datasets.
+![App Screenshot](assets/Screenshot.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red.svg)](https://streamlit.io)
