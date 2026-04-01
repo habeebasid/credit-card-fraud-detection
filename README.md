@@ -1,5 +1,10 @@
 # 💳 Credit Card Fraud Detection
 
+## 🚀 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-frauddetections.streamlit.app/)
+
+![App Screenshot](assets/Screenshot.png)
+
 An end-to-end machine learning project for detecting fraudulent credit card transactions using gradient boosting and proper evaluation techniques for highly imbalanced datasets.
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
